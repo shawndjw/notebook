@@ -2,14 +2,14 @@
 
 ## AIX
 
-- [Setting up RBAC to Run IBM IHS on Port 80 as non-root](howto-setting-up-rbac-ibm-ihs.md)
+- [Setting up RBAC to Run IBM IHS on Port 80 as non-root](aix/setting-up-rbac-ibm-ihs.md)
 
 ## VMware
 
 ### PowerCLI
 
-- [Clone VM from Snapshot](vmware-clone-vm-from-snapshot.md)
+- [Clone VM from Snapshot](vmware/powercli/clone-vm-from-snapshot.md)
 
 ## Shell
 
-- [Use `find` to `mv` files](howto-use-find-to-mv-files.md)
+- [Use `find` to `mv` files](shell/use-find-to-mv-files.md)
