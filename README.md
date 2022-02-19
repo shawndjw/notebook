@@ -6,7 +6,7 @@
 
 ## Linux
 
-- [Find packge that contains file on Debian based systems](find-package-with-file-debian.md)
+- [Find packge that contains file on Debian based systems](linux/find-package-with-file-debian.md)
 
 ## VMware
 
