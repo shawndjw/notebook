@@ -12,6 +12,10 @@
 
 - [Find packge that contains file on Debian based systems](linux/find-package-with-file-debian.md)
 
+## Windows
+
+- [Retrieve Windows product key from registry](windows/retrieve-product-key-from-registry.md)
+
 ## VMware
 
 ### PowerCLI
