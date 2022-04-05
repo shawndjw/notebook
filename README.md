@@ -24,4 +24,5 @@
 
 ## Shell
 
+- [Replace or Add a String to File](shell/replace-or-add-string-to-file.md)
 - [Use `find` to `mv` files](shell/use-find-to-mv-files.md)
