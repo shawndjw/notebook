@@ -7,6 +7,7 @@
 ## Git
 
 - [Create a Remote Branch](git/create-a-remote-branch.md)
+- [Delete a local and remote Git branch](git/delete-branch.md)
 
 ## Linux
 
