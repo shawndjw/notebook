@@ -2,7 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     
-    <title>The Notebook</title>
+    <title>My Notebook</title>
     <description>My Notebook</description>
     <link>https://shawndjw.github.io/notebook</link>
     <atom:link href="https://shawndjw.github.io/notebook/yearly.xml" rel="self" type="application/rss+xml"/>
@@ -11,7 +11,7 @@
     <managingEditor>shawndjw</managingEditor>
 
     
-    <pubDate>2024-02-26 17:16:42.536558</pubDate>
+    <pubDate>2024-02-26 19:50:59.336795</pubDate>
     <ttl>525600</ttl>
 
     
@@ -19,7 +19,7 @@
 
     
     
-    <image><url>https://shawndjw.github.io/notebook/img/logo.bmp</url><title>The Notebook</title>
+    <image><url>https://shawndjw.github.io/notebook/images/notebook.png</url><title>My Notebook</title>
       <link>https://shawndjw.github.io/notebook</link>
     </image>
     

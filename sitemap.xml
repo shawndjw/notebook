@@ -6,7 +6,52 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://shawndjw.github.io/notebook/aix/setting-up-rbac-ibm-ihs/</loc>
+         <lastmod>2024-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shawndjw.github.io/notebook/git/create-a-remote-branch/</loc>
+         <lastmod>2024-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shawndjw.github.io/notebook/git/delete-branch/</loc>
+         <lastmod>2024-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shawndjw.github.io/notebook/linux/find-package-with-file-debian/</loc>
+         <lastmod>2024-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://shawndjw.github.io/notebook/newsletter/0_newsletter_index/</loc>
+         <lastmod>2024-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shawndjw.github.io/notebook/oracle/duplicate-profiles/</loc>
+         <lastmod>2024-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shawndjw.github.io/notebook/shell/replace-or-add-string-to-file/</loc>
+         <lastmod>2024-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shawndjw.github.io/notebook/shell/use-find-to-mv-files/</loc>
+         <lastmod>2024-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shawndjw.github.io/notebook/vmware/powercli/clone-vm-from-snapshot/</loc>
+         <lastmod>2024-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shawndjw.github.io/notebook/windows/retrieve-product-key-from-registry/</loc>
          <lastmod>2024-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
