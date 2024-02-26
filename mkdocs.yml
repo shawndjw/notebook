@@ -1,5 +1,5 @@
 ---
-site_name: The Notebook
+site_name: My Notebook
 site_description: My Notebook
 site_author: shawndjw
 site_url: https://shawndjw.github.io/notebook
@@ -48,7 +48,7 @@ markdown_extensions:
 theme:
   name: material
   custom_dir: theme
-  logo: img/logo.bmp
+  logo: images/notebook.png
   features:
     - navigation.footer
     - navigation.instant
