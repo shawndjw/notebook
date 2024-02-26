@@ -8,15 +8,12 @@ nav:
 
 plugins:
   - search
-  - exclude-search:
-      exclude: [newsletter/*]
   - autolinks
   - git-revision-date-localized:
       type: timeago
   - minify:
       minify_html: true
   - section-index
-  - mkdocs-newsletter
 
 markdown_extensions:
   - abbr
@@ -82,8 +79,6 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/shawndjw
-    - icon: fontawesome/solid/rss
-      link: https://shawndjw.github.io/notebook/newsletter/0_newsletter_index
 
 repo_name: shawndjw/notebook
 repo_url: https://github.com/shawndjw/notebook

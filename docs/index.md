@@ -1,5 +1,3 @@
-# how-to
-
 ## AIX
 
 - [Setting up RBAC to Run IBM IHS on Port 80 as non-root](aix/setting-up-rbac-ibm-ihs.md)
