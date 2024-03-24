@@ -9,7 +9,11 @@
 
 ## Linux
 
-- [Find packge that contains file on Debian based systems](linux/find-package-with-file-debian.md)
+- [Find package that contains file on Debian based systems](linux/find-package-with-file-debian.md)
+
+
+## Misc
+- [Install Kobo-Inkbox](kobo/InkBox.md)
 
 ## Windows
 
